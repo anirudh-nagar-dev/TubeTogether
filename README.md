@@ -2,7 +2,7 @@
 
 Watch YouTube together in real time. Create a room, share the code or link, and everyone sees the same video, position and play state. Playback is controlled by the Host and Moderators; Participants can *request* changes.
 
-**Live URL:** `https://<your-app>.onrender.com` (add after deploying)
+**Live URL:** `https://tubetogether.onrender.com`
 
 ## Features
 - Create/join rooms by 6-character code or invite link
